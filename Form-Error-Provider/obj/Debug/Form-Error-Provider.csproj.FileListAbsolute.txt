@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\bin\Debug\Form-Error-Provider.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\bin\Debug\Form-Error-Provider.exe
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\bin\Debug\Form-Error-Provider.pdb
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form-Error-Provider.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form-Error-Provider.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form_Error_Provider.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form_Error_Provider.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form-Error-Provider.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form-Error-Provider.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form-Error-Provider.exe
+C:\Users\gundo\OneDrive\Masaüstü\Form-Error-Provider\Form-Error-Provider\obj\Debug\Form-Error-Provider.pdb
